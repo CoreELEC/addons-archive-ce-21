@@ -1,3 +1,4 @@
 /Amlogic-ng/21.1.1/arm/game.libretro.scummvm/game.libretro.scummvm-2.10.0.47.1.zip filter=lfs diff=lfs merge=lfs -text
 /Amlogic-ne/21.1.1/aarch64/game.libretro.scummvm/game.libretro.scummvm-2.10.0.47.1.zip filter=lfs diff=lfs merge=lfs -text
 /Amlogic-ng/21.2/arm/game.libretro.scummvm/game.libretro.scummvm-2.10.0.47.1.zip filter=lfs diff=lfs merge=lfs -text
+/Amlogic-ne/21.2/aarch64/game.libretro.scummvm/game.libretro.scummvm-2.10.0.47.1.zip filter=lfs diff=lfs merge=lfs -text
